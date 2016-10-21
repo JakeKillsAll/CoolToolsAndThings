@@ -1,0 +1,14 @@
+[
+{
+  "modid": "ctat",
+  "name": "Cool Tools and Things",
+  "description": "JakeKillsAll's First Mod",
+  "version": "0.1a",
+  "mcversion": "1.7.10",
+  "authorList": ["JakeKillsAll"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

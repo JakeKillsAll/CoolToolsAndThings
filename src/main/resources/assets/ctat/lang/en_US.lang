@@ -1,0 +1,15 @@
+item.MalachitePickaxe.name=Malachite Pickaxe
+item.MalachiteAxe.name=Malachite Axe
+item.MalachiteSword.name=Malachite Sword
+item.MalachiteShovel.name=Malachite Shovel
+item.MalachiteHoe.name=Malachite Hoe
+item.MalachiteEssence.name=Malachite Essence
+item.LargeMalachiteEssence.name=Large Malachite Essence
+item.MalachitePlate.name=Malachite Plate
+item.RawFiletMignon.name=Raw Steak
+item.CookedFiletMignon.name=Cooked Steak
+item.SteakKnife.name=Meat Cleaver
+tile.MalachiteOre.name=Malachite Ore
+tile.EssenceProcessor.name=Essence Processor
+itemGroup.ctat=CTAT-Tools
+itemGroup.food=CTAT-Foods
